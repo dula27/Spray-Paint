@@ -1,0 +1,35 @@
+﻿<Window x:Class="SprayPaint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SprayPaint"
+        mc:Ignorable="d"
+        Title="Spray Painter" Height="500" Width="800">
+    <Grid Margin="100,50,100,50">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="WelcomeHolder" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">Welcome</TextBlock>
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="50,25,50,25">
+            <TextBlock x:Name="NewHolder" HorizontalAlignment="Center">New +</TextBlock>
+            <Button x:Name="btnNew" Margin="0,5,0,0">
+                Create new
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="50,25,50,25">
+            <TextBlock x:Name="LoadHolder" HorizontalAlignment="Center">Open</TextBlock>
+            <Button x:Name="btnLoad" Margin="0,5,0,0">
+                Open file
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

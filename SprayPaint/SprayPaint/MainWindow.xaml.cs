@@ -42,8 +42,6 @@ namespace SprayPaint
             // Set the content
             NewHolder.Text = "New file";
             LoadHolder.Text = "Load file";
-            btnNew.Content = "Create";
-            btnLoad.Content = "Open";
         }
     }
 }

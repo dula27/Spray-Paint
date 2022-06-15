@@ -8,3 +8,8 @@
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-create-a-button-that-has-an-image?view=netframeworkdesktop-4.8
 - https://stackoverflow.com/questions/15636047/image-in-wpf-button-not-visible-at-runtime
 - https://stackoverflow.com/questions/8483002/image-shows-up-in-visual-studio-designer-but-not-during-run-time
+- https://docs.microsoft.com/en-us/dotnet/desktop/wpf/advanced/collecting-ink?view=netframeworkdesktop-4.8
+- https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.inkcanvas?view=windowsdesktop-6.0
+- https://docs.microsoft.com/en-us/dotnet/desktop/wpf/graphics-multimedia/brushes?view=netframeworkdesktop-4.8
+- https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-common-system-dialog-box?view=netdesktop-6.0
+- https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-6.0

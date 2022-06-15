@@ -4,10 +4,12 @@ C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\bin\De
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\bin\Debug\net6.0-windows\SprayPaint.dll
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\bin\Debug\net6.0-windows\SprayPaint.pdb
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\SprayPaint.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\LoadWindow.g.cs
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\SprayPaint_MarkupCompile.cache
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\SprayPaint_MarkupCompile.lref
+C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\LoadWindow.baml
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\SprayPaint.g.resources
 C:\Users\Abdullah\Desktop\.NET-CaseGuard-Assignment\SprayPaint\SprayPaint\obj\Debug\net6.0-windows\SprayPaint.GeneratedMSBuildEditorConfig.editorconfig

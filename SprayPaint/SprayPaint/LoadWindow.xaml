@@ -1,0 +1,19 @@
+﻿<Window x:Class="SprayPaint.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SprayPaint"
+        mc:Ignorable="d"
+        Title="Spray Paint - Edit" Height="700" Width="1000">
+    <Grid>
+        <InkCanvas Margin="10,10,10,80" x:Name="inkCanvas" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                   Width="Auto">
+            <Image Margin="10,10,10,80" Name="imgPhoto" Stretch="Fill">
+                <Image.Effect>
+                    <DropShadowEffect Direction="-50" Color="#FFB6C2CB" ShadowDepth="7" BlurRadius="4" />
+                </Image.Effect>
+            </Image>
+        </InkCanvas>
+    </Grid>
+</Window>

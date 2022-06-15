@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:SprayPaint"
         mc:Ignorable="d"
         Title="Spray Painter" Height="700" Width="1000">
-    <Grid Margin="100,50,100,50">
 
+    <Grid Margin="10,20,10,20">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
@@ -26,10 +26,13 @@
             <TextBlock x:Name="NewHolder" HorizontalAlignment="Center">New +</TextBlock>
         </StackPanel>
         <StackPanel Grid.Row="1" Grid.Column="1" Margin="50,10,50,10">
-            <Button x:Name="btnLoad" Width="128" Height="128" Margin="0,5,0,0" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}">
+            <Button x:Name="btnLoad" Click="btnLoadClick" Width="128" Height="128" Margin="0,5,0,0" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}">
                 <Image Source="/Resources/Open_02_Artboard_2.png" />
             </Button>
             <TextBlock x:Name="LoadHolder" HorizontalAlignment="Center">Open</TextBlock>
         </StackPanel>
+        <Grid x:Name="MainArea" Grid.RowSpan="2" Grid.ColumnSpan="2"  HorizontalAlignment="Stretch">
+
+        </Grid>
     </Grid>
 </Window>

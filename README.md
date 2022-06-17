@@ -4,9 +4,13 @@
 /Release/SprayPaint.exe
 ```
 ## Features
-- Eraser button erases all Stroke Colelction (Clears the canvas)
+- Eraser button erases all Stroke Colelction (Clears the canvas).
 - Save button saves the current ink collection in `.icf` file.
 - .icf button loads the saved ink collection on the canvas to re-edit.
+## Limitations
+- Canvas cursor is set transparent so it is not visible.
+- Window is not set to auto scale/resize depending on the image due to bitmap decoder required at runtime.
+- Does not have feature to erase canvas stroke by stroke.
 ## References for resources used
 - https://docs.microsoft.com/en-gb/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-6.0
 - https://docs.microsoft.com/en-gb/dotnet/desktop/wpf/windows/?view=netdesktop-6.0

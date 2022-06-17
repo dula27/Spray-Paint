@@ -20,7 +20,7 @@
 
         <TextBlock x:Name="WelcomeHolder" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">Welcome</TextBlock>
         <StackPanel Grid.Row="1" Grid.Column="0" Margin="50,10,50,10">
-            <Button x:Name="btnNew" Width="128" Height="128" Margin="0,5,0,0" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}">
+            <Button x:Name="btnNew" Click="btnNewClick" Width="128" Height="128" Margin="0,5,0,0" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}">
                 <Image Source="/Resources/New_01_Artboard_1.png" />
             </Button>
             <TextBlock x:Name="NewHolder" HorizontalAlignment="Center">New +</TextBlock>

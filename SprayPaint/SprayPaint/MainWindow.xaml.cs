@@ -97,5 +97,22 @@ namespace SprayPaint
             }
             LoadWindow.Show();
         }
+        private void btnNewClick(object sender, RoutedEventArgs e)
+        {
+            // Create new window object
+            Window1 LoadWindow = new Window1();
+
+            
+            BitmapImage loadedImg = new BitmapImage(new Uri("/SprayPaint;component/Images/down.png", UriKind.Relative));
+
+            // Load source into xaml
+            LoadWindow.imgPhoto.Source = loadedImg;
+            LoadWindow.Title = "Spray Painter - Edit - Plain Canvas";
+
+            // Hide current window visibility
+            this.Visibility = Visibility.Hidden;
+
+            LoadWindow.Show();
+        }
     }
 }

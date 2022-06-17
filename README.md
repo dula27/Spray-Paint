@@ -13,3 +13,6 @@
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/graphics-multimedia/brushes?view=netframeworkdesktop-4.8
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-common-system-dialog-box?view=netdesktop-6.0
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-6.0
+- https://docs.microsoft.com/en-us/dotnet/desktop/wpf/advanced/storing-ink?view=netframeworkdesktop-4.8
+- https://docs.microsoft.com/en-us/dotnet/api/system.windows.ink.strokecollection?view=windowsdesktop-6.0
+- https://social.msdn.microsoft.com/Forums/vstudio/en-US/56b78b15-cb5f-4664-aa0b-7650308c7f85/touch-events-not-converted-to-mouse-events?forum=wpf

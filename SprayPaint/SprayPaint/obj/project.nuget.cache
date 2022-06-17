@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vXJfgWuMqq3UQHJLbzvzf3eoi/tZJdWvUbDfnZRvkg1AYqamkH5AjS27HvuF6wMsgGkNxOuNr58olYHguAV5vw==",
+  "dgSpecHash": "JtOnKguZ5rEDuAVRq2CRhmscj/wJLG4TE7GZsU12GhBpPLuQqna0DyVbFpxtFNz9JrN7Y2p9iHy50upDV4T9Yw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\.NET-CaseGuard-Assignment\\SprayPaint\\SprayPaint\\SprayPaint.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdullah\\.nuget\\packages\\syncfusion.licensing\\20.1.0.60\\syncfusion.licensing.20.1.0.60.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\syncfusion.shared.base\\19.3.0.48\\syncfusion.shared.base.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\syncfusion.shared.windows\\19.3.0.48\\syncfusion.shared.windows.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.60\\syncfusion.shared.wpf.20.1.0.60.nupkg.sha512"
+  ],
   "logs": []
 }

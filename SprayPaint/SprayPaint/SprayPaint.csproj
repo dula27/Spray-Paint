@@ -8,17 +8,30 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\eraser.png" />
+    <None Remove="Resources\icf.png" />
     <None Remove="Resources\New_01_Artboard_1.png" />
     <None Remove="Resources\New_1_01_Artboard_1.jpg" />
     <None Remove="Resources\Open_02_Artboard_2.png" />
     <None Remove="Resources\Open_1_02_Artboard_2.jpg" />
+    <None Remove="Resources\save.png" />
+    <None Remove="Resources\White_Canvas.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Syncfusion.Shared.Windows" Version="19.3.0.48" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="20.1.0.60" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\eraser.png" />
+    <Resource Include="Resources\icf.png" />
     <Resource Include="Resources\New_01_Artboard_1.png" />
     <Resource Include="Resources\New_1_01_Artboard_1.jpg" />
     <Resource Include="Resources\Open_02_Artboard_2.png" />
     <Resource Include="Resources\Open_1_02_Artboard_2.jpg" />
+    <Resource Include="Resources\save.png" />
+    <Resource Include="Resources\White_Canvas.jpg" />
   </ItemGroup>
 
 </Project>

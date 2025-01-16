@@ -1,4 +1,4 @@
-# .NET-CaseGuard-Assignment
+# .NET-Spray-Paint
 ## SprayPaint.exe
 ```
 /Release/SprayPaint.exe
